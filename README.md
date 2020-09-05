@@ -1,2 +1,3 @@
-# Ziru "Ron" Chen's Homepage
-Last updated: 08/17/2020
+# Homepage for CSE/CIS Peer Mentors @ OSU
+Intro goes here  
+Last updated: 09/??/2020  
