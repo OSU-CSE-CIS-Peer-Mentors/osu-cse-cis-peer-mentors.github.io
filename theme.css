@@ -27,10 +27,10 @@ body {
 	border-radius: 8px;
 }
 
-.intro {
+.photo {
 	width: 150px;
 	text-align: center;
-	margin-left: 20px;
+	margin-right: 20px;
 	margin-bottom: 5px;
 	float:left;
 }
